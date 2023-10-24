@@ -103,7 +103,7 @@
       <workItem from="1642879684178" duration="18000" />
       <workItem from="1697931642689" duration="72000" />
       <workItem from="1697996195046" duration="12655000" />
-      <workItem from="1698168118497" duration="912000" />
+      <workItem from="1698168118497" duration="1620000" />
     </task>
     <servers />
   </component>
@@ -111,6 +111,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ConnectToDB$ConnectToRemoteDaily.coverage" NAME="ConnectToRemoteDaily Coverage Results" MODIFIED="1698172543193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ConnectToDB$main.coverage" NAME="main Coverage Results" MODIFIED="1697931649966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
